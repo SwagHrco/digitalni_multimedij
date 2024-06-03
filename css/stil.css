@@ -1,0 +1,74 @@
+body {
+font-family: Helvetica;
+background: rgb(0,0,36);
+background: linear-gradient(360deg, rgba(224, 236, 236, 1) 0%, rgba(225, 247, 242, 1) 48%, rgba(177, 237, 227, 1) 100%);
+padding-top: 40px;
+ padding-right: 30px;
+ padding-bottom: 30px;
+ padding-left: 50px;
+}
+
+p {color: rgb(18, 23, 24);}
+div.listac {
+  text-align: center;
+padding: 15px;
+margin-left: 95px;
+margin-right: 125px;
+background: rgb(212, 255, 246);
+ border: 5px solid rgb(83, 171, 152);
+ border-radius: 25px;
+ box-shadow: 15px 10px 7px 5px rgba(10, 19, 17, 0.62)
+
+}
+
+ol.spojilistu {
+  color: rgb(235, 77, 209);
+  display: inline-block;
+  text-align: left;
+}
+
+ul.spojilistu {
+  color: rgb(181, 20, 20);
+  display: inline-block;
+  text-align: left;
+}
+
+div.naslov {
+  padding: 2px;
+  background: rgb(212, 255, 246);
+   border: 6px solid rgb(83, 171, 152);
+   border-radius: 25px;
+   margin-left: 95px;
+   margin-right: 95px;
+   box-shadow: 5px 10px 10px 1px rgba(10, 19, 17, 0.62)
+}
+
+div.social {
+  text-align: center;
+}
+
+div.mm {
+  text-align: center;
+  display: block;
+  float: center;
+  padding: 1px;
+  background: rgb(212, 255, 246);
+   border: 6px solid rgb(83, 171, 152);
+   border-radius: 25px;
+   margin-left: 248px;
+   margin-right: 164px;
+   box-shadow: 5px 10px 10px 1px rgba(10, 19, 17, 0.62)
+
+}
+
+div.kuca {
+  text-align: left;
+  display: block;
+  padding: 10px;
+  float: left;
+  background: rgb(212, 255, 246);
+   border: 5px solid rgb(83, 171, 152);
+   border-radius: 25px;
+   margin-left: 95px;
+   margin-right: 95px;
+   box-shadow: 5px 10px 10px 1px rgba(10, 19, 17, 0.62)
